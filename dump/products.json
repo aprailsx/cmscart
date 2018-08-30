@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5b70ff46e436f71958dc9205"},"title":"Banana","slug":"banana","desc":"some bananas","price":1,"category":"fruits","image":"","__v":0}
+{"_id":{"$oid":"5b71006968367c19e50320fc"},"title":"green shirt","slug":"green-shirt","desc":"green t-shirt","price":2.5,"category":"t-shirts","image":"greenshirt2.jpg","__v":0}
+{"_id":{"$oid":"5b71a9cd31ca532d1340583a"},"title":"blue t-shirt","slug":"blue-t-shirt","desc":"blue t-shirt","price":10,"category":"t-shirts","image":"blueshirt1.jpg","__v":0}
+{"_id":{"$oid":"5b723ab838862d3a147d4994"},"title":"Apple","slug":"apple","desc":"some apple","price":1,"category":"fruits","image":"apples1.jpg","__v":0}

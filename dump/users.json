@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5b72644499a8f14285421674"},"name":"ahries","email":"ahries.panopio@gmail.com","username":"admin","password":"$2a$10$vCaGGUnB1M1GOGfNfKzwF.ECSTeJ9W0Y5mwGhuJIqOjQUeqH6W6Zy","admin":1,"__v":0}
+{"_id":{"$oid":"5b7267c5fb27d6434eb7390d"},"name":"reg","email":"reg@user.com","username":"reg","password":"$2a$10$MtP5vw5eX.1YI8rfuI4VfeGQuLMw5RaeZ0UEGq.kqi2m8v.9INzEa","admin":0,"__v":0}
